@@ -1,0 +1,151 @@
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+.card{
+    margin:10px 0px 0px 0px;
+    width: 500px;
+    border: 1px solid lightgray;
+    border-radius: 14px;
+    padding: 0;
+
+    
+}
+.u1{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;;
+}
+.feed{
+    width:100%;
+    height: 320px;;
+    
+}
+.name{
+    display: block;
+    margin: 0;
+}
+.header{
+    margin: 0;
+    display: flex;
+    gap: 10px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    margin-left: 5px;;
+    align-items: center;;
+}
+.name p{
+    margin: 0;;
+    font-size: 11px;;
+}
+h3{
+    font-size: 16px;;
+}
+svg{
+    margin-top: 10px;
+    gap: 25px;;    
+}
+.icons{
+    display: flex;
+    gap: 15px;;
+}
+.allicon{
+    display: flex;
+    gap: 360px;;
+    margin-left: 10px;;
+}
+p{
+    font-size: 14px;
+    text-align: left;
+    margin-left: 10px;;
+}
+.navig{
+    width: 50px;
+    margin-left:10px;
+    height: 100vh;
+    position: fixed;
+    margin-top: -5px;
+    padding-top: 0px;
+    border-right: 1px solid lightgray;
+   
+}
+.side{
+    display: flex;
+    margin-bottom: 50px;
+   margin-right: 0px;
+   margin-top: 5px;;
+    gap: 40px;
+}
+.mega-container{
+   
+    margin-left: 10px;
+    display: flex;
+    
+}
+.menu{
+    display: flex;
+    align-items: center;
+    
+}
+nav>svg{
+    margin-top: 0px;;
+    margin-bottom: 30px;
+}
+.prof{
+    width: 26px;
+    height: 26px;
+    border-radius: 50%;
+    background-size: cover;
+}
+.story{
+    
+  
+    margin-left: 0px;
+ 
+    margin-bottom: 10px;
+    margin-top: 0px;
+    
+    border-radius: 1px solid lightgray ;
+    display: flex;
+   
+    top: 0px;;
+    
+}
+.story::{
+    background-color: lightgrey;
+    opacity: 40%;
+}
+.vikky{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    justify-content: center;
+}
+.vig{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}
+.container{
+    margin-top: 10px;
+    margin-left: 240px;
+    padding-left: 0px;;
+    display: block;
+}
+.helloo{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-right: 0px;
+    padding-left: 0px;
+    text-align: center;
+    
+   
+}
+.storyssub{
+    text-align: center;
+    margin-left: 10px;
+    padding-left: 0px;
+    justify-content: center;
+    
+}
